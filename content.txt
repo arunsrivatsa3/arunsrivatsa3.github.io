@@ -1,0 +1,102 @@
+
+
+TECHNICAL SKILLS:
+Programming Languages:
+Web Technologies:
+Android(Java), C, C++, C#, Java, Python, Lua (Basics)
+PHP, JSP, JavaScript, jQuery, AngularJS, ASP.NET
+Database & Multimedia:
+MS Access, MS-SQL server, MySQL, Adobe Photoshop,
+Pinnacle Studio (Video Editing), MATLAB
+PROGRAMMING
+Proficient in:
+Java • C • C++
+SQL • Android
+Familiar with:
+Python • C# •
+WEB TECHNOLOGY
+Proficient in:
+HTML • CSS • JavaScript • PHP
+Familiar with:
+AngularJS • ASP.NET • jQuery
+IDE
+Visual Studio • Android Studio
+Eclipse • NetBeans • PyCharm
+
+
+
+
+GRADUATE SERVICES ASSISTANT | ARIZONA STATE UNIVERSITY
+January 2017 – May 2017 | Tempe, AZ
+• Grader for graduate level course "Mobile Computing".
+• Grader for undergraduate level course "Operating Systems".
+Web Development Intern, Argus Ventures, Chennai, India May 2016 - July 2016
+ Led a project team of two, developed a web application which is used to identify the correct area of expertise of an individual and recommend the best set of careers that they are most probable to succeed.
+ Programmer Intern, Universiti Sains Malaysia (NAv6 USM), Penang Feb 2016 - March 2016
+ Led project team members working on Internet of Things Space project which involved real-time data monitoring from Intel Edison sensors using a web application and a smart phone application. (Final Year Project for UG).
+ Identified and resolved many issues including connection reliability, data archiving.
+ Performed effective software requirement gathering by consulting with supervisor periodically.
+
+ACADEMIC PROJECTS:
+
+Graph Database: Java
+
+INTERACTIVE VISUALIZATION,
+SENTIMENT ANALYSIS ON THE YELP DATASET MARCH 2017
+SKILLS USED: HADOOP, APACHE HIVE, PYTHON
+• Developed a system which parses the reviews of various businesses from
+the Yelp Dataset and classifies as positive, negative and neutral.
+• Data was imported to Hive and MapReduce query operations were
+performed to classify data based on a tagged word polarity dictionary.
+
+ American Sign Language Recognition using Kinect and Myo sensors. A system which can recognize various ASL signs and translate them to gloss. Gloss generated is corrected by a language model built on an already existing ASL corpus.
+
+ Context Aware Android Personal Assistant, developed a smart alarm which identifies disturbed sleep episodes based on user movements during sleep and proximity alert when the user enters within a particular radius of a location.
+
+ Music Recommender System. Developed a web application predicts what songs will be suitable for a singer as per his Voice Profile. Prediction done using Naïve Bayes using Java. Gives the singer a list of songs suitable.
+ Designed of a “Lexical analyser” to parse a C++ program from any given program as a part of System Software course using C++. The program separates all words in the input program and classifies it into various tokens.
+
+ “ChatBot for Android”, developed a chatbot using PandoraBots AIML files with a GUI similar to a normal messaging application which allows the user to interact with the ChatBot. Data for chat is trained and stored in the AIML files.
+
+TAMIL SCRIPT INTERPRETATION OCR ANDROID AUGUST 2015
+SKILLS USED: ANDROID (JAVA)
+• Developed an android application which converts an image of tamil
+language script into digital font and translates it to English.
+• Published in International Journal of Computer Science and Information
+Technologies (IJCSIT)
+http://ijcsit.com/docs/Volume%206/vol6issue05/ijcsit2015060578.pdf
+
+Fitness Studio Website, using HTML and JSP. A static website with a simple “Contact Us” form
+page to obtain the user personal information. It also displays all the facilities available
+
+ Location Based Notification using Geofence, using Android Studio. Smartphone application which alerts
+the user when in the vicinity of a previously programmed coordinate/place.
+
+Resume Review: LinkedIn/Resume similarity recommender.
+
+FTCHark: Amazon Alexa Summarizer.
+
+OOAD Project on Foreign Trading Systems (back-end : Ms Access)
+
+Compiler First Phase – Lexical Analyser using C++ as Mini Project(2014)
+
+ACHIEVEMENTS:
+ Designed the website for the department of Computer Science and engineering’s technical symposium, Meenakshi Sundararajan Engineering College, Anna University, Chennai, India
+
+COMMUNITY INVOLVEMENT:
+ Mentored various fundamental concepts of Computer Science for grade 9 students as a part of an NGO, BHUMI, India.
+ Member of Lions Club International Campus Clubs, India and actively participated in social welfare activities.
+
+About me:
+	Hi there! Welcome to my webpage. I am a grad student at Arizona State University currently pursuing my Masters in Computer Science.
+	I am currently a part of the Impact Lab at Arizona State University. I have worked as a Graduate Assisstant for both Graduate and Undergraduate level courses. My current research interests involve using Deep Learning to solve real-time problems involving recognition of gestures and human computer interaction.
+
+Recent Activity:
+Honolulu Hawaii,
+CVPR 2017 Intel Student Ambassador Forum: July 2017
+I presented my work on recognizing gestures by transforming limited available feature space of sensor data into videos and using Deep Convolutional Neural Networks to perform improved classification. 
+
+
+Mentored various fundamental concepts of Computer Science for grade 9 students as a part of an NGO, BHUMI, India.
+Passed Grade 5 Theory of Music with Distinction, Trinity College of London.
+Passed Grade 4 Electronic Keyboard, Trinity College of London.
